@@ -139,7 +139,7 @@ Mitgliedschaften. 🌍💼
 -   [ ] **Medizinische Einrichtungen**
     -   [ ] Patientenakten und Aufzeichnungen
     -   [ ] Impfpass
-    -   [ ] Krykonservierungsdokumente
+    -   [ ] Kryokonservierungsdokumente
     -   [ ] Organspendeausweis
 
 📌 **Hinweis**: Einige Änderungen, wie die Aktualisierung der
